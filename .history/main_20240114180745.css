@@ -4,11 +4,9 @@ body {
 h1 {
    font-size: larger;
    text-align: center;
-   color: white;
 }
 p {
   text-align: center;
-  color:white;
 }
 img {
   border-radius: 50%;
@@ -19,13 +17,11 @@ img {
 
 .btn-primary {
   background-color: blueviolet;
+  display:  grid;
+  place-items: center;
 }
 .container {
   display: grid;
   place-items: center;
   margin: auto;
-}
-.fa {
-  color: white;
-  margin-left: 10px;
 }

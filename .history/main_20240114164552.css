@@ -4,28 +4,14 @@ body {
 h1 {
    font-size: larger;
    text-align: center;
-   color: white;
 }
 p {
   text-align: center;
-  color:white;
 }
 img {
   border-radius: 50%;
-  display: grid;
-  place-items: center;
-  margin: auto;
 }
 
 .btn-primary {
   background-color: blueviolet;
-}
-.container {
-  display: grid;
-  place-items: center;
-  margin: auto;
-}
-.fa {
-  color: white;
-  margin-left: 10px;
 }

@@ -1,0 +1,17 @@
+body {
+  background-color:coral;
+}
+h1 {
+   font-size: larger;
+   text-align: center;
+}
+p {
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+}
+
+.btn-primary {
+  background-color: blueviolet;
+}

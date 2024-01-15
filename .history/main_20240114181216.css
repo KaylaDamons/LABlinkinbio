@@ -4,11 +4,9 @@ body {
 h1 {
    font-size: larger;
    text-align: center;
-   color: white;
 }
 p {
   text-align: center;
-  color:white;
 }
 img {
   border-radius: 50%;
@@ -27,5 +25,5 @@ img {
 }
 .fa {
   color: white;
-  margin-left: 10px;
+  margin-left: 10%;
 }
